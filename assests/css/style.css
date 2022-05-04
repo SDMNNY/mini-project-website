@@ -1,4 +1,13 @@
-img.resize {
-    width:20px;
-    height:40px;
-  }
+* {  font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+p { font-size: 60px;
+    text-align: center;
+    color: goldenrod;
+}
+
+img {position: relative
+    left 1000px;
+    background-position: 100px;
+
+}
